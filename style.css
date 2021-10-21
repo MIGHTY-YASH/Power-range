@@ -1,0 +1,36 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    background-image:url(power-rangers-title.png) ;
+   
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+#pa{
+height:200px;
+width:500px;
+background-color: aqua;
+border-radius: inherit;
+background-image:url(200.gif) ;
+
+}
+
+#prp{
+    border-radius: 10px;
+    border-style:dashed;
+}
+
